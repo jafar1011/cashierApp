@@ -1,0 +1,16 @@
+D:\c# 3 projects\cashier\cashier\bin\Release\receipt_database.db
+D:\c# 3 projects\cashier\cashier\bin\Release\data.txt
+D:\c# 3 projects\cashier\cashier\bin\Release\receipt.txt
+D:\c# 3 projects\cashier\cashier\bin\Release\SQLite.Interop.dll
+D:\c# 3 projects\cashier\cashier\bin\Release\الكاشير.exe.manifest
+D:\c# 3 projects\cashier\cashier\bin\Release\الكاشير.application
+D:\c# 3 projects\cashier\cashier\bin\Release\الكاشير.exe
+D:\c# 3 projects\cashier\cashier\bin\Release\الكاشير.pdb
+D:\c# 3 projects\cashier\cashier\bin\Release\System.Data.SQLite.dll
+D:\c# 3 projects\cashier\cashier\obj\x86\Release\cashier.Form1.resources
+D:\c# 3 projects\cashier\cashier\obj\x86\Release\الكاشير.Properties.Resources.resources
+D:\c# 3 projects\cashier\cashier\obj\x86\Release\cashier.csproj.GenerateResource.Cache
+D:\c# 3 projects\cashier\cashier\obj\x86\Release\الكاشير.exe.manifest
+D:\c# 3 projects\cashier\cashier\obj\x86\Release\الكاشير.application
+D:\c# 3 projects\cashier\cashier\obj\x86\Release\الكاشير.exe
+D:\c# 3 projects\cashier\cashier\obj\x86\Release\الكاشير.pdb
