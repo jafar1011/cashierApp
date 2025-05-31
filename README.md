@@ -1,4 +1,4 @@
-## 🧾 Overview – Cashier System
+## 🧾 Overview – Cashier System (Still in Development)
 
 The **Fast Food Cashier App** is a feature-rich Windows Forms application built in **C#**, designed to streamline order-taking and sales logging in small restaurants or fast-food businesses. It supports rapid item selection through menu panels, automatic receipt generation, and monthly sales tracking using **SQLite**.
 
